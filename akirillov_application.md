@@ -4,7 +4,7 @@
 
 ### Группа: 10 - И - 4
 ### Электронная почта: artemkakirillov04@gmail.com
-### VK: www.vk.com/artiksss
+### VK: www.vk.com/k1artik
 
 
 **[ Название проекта ]**
