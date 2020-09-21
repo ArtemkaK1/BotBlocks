@@ -1,2 +1,2 @@
-# BotBlocks
-BotBlocks is a block constructor of Telegram bots
+# PlaceAdisor
+Твой помощник в выборе кафе, ресторана или места для работы
