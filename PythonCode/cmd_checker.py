@@ -1,7 +1,7 @@
 import os
 
 
-class Commander:
+class Checker:
 
     def __init__(self):
         self.command_list = []
