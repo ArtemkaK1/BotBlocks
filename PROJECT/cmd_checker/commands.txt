@@ -1,4 +1,2 @@
 открой браузер,браузер,browser@start browser
 открой картинку,картинка@start image
-открой сайт аниме,аниме,anime,топ@start http://animevost.org
-открой блокнот,блокнот@start notepad
