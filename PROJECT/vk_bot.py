@@ -52,7 +52,7 @@ class VKBot:
     def messages_send(self, message):
 
         if message.lower() == self._COMMANDS[0]:
-            return f'Привет, {self._USERNAME}! Расскажи мне, что ты хочешь: выпить кофе, перекусить, хорошенько ' \
+            return f'Привет, {self._USERNAME}! Расскажи мне, что ты хочешь: выпить кофе, перекусить, ' \
                    f'поесть или, может быть, поработать?\n\nНапиши мне "Еще", чтобы узнать о всех моих возможностях) '
 
         if message.lower() == self._COMMANDS[1]:
