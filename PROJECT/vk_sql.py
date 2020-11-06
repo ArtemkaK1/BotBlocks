@@ -70,7 +70,7 @@ class DbWork:
         cursor.execute(sql, (place + ' купон',))
         result = cursor.fetchone()
         connection.close()
-        return result
+        return result['coupon']
 
     def add_coupons(self, place):
         connection = self._CONNECTION
